@@ -1,2 +1,2 @@
 # Django-apiテスト
-試験用でAPIを作成
+Django REST Frameworkを使ったWEB API実装
